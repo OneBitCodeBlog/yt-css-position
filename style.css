@@ -1,0 +1,28 @@
+main {
+  background-color: #e5e5e5;
+  font-family: sans-serif;
+  height: 300vh;
+  margin: 1.5rem 1rem;
+  padding: 1rem 2.5rem;
+}
+
+div {
+  font-size: 1.5rem;
+  padding: 1rem 1.5rem;
+}
+
+.p-static {
+  background-color: #e88080;
+}
+.p-relative {
+  background-color: #dee880;
+}
+.p-absolute {
+  background-color: #8095e8;
+}
+.p-fixed {
+  background-color: #82e880;
+}
+.p-sticky {
+  background-color: #e880dc;
+}
